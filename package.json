@@ -2,5 +2,6 @@
   "name": "devlang",
   "version": "1.0.0",
   "bin": { "devlang": "./cli.js" },
-  "dependencies": { "readline-sync": "^1.4.10" } // 用于命令行输入
+  "dependencies": { "readline-sync": "^1.4.10" }
+  // 用于命令行输入
 }
